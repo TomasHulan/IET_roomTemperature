@@ -1,0 +1,45 @@
+mcc -C -o IETroom -W main:IETroom -T link:exe -d C:\Users\UKF-HPZ2202\Documents\MATLAB\IETroom\for_testing -v 'C:\Users\UKF-HPZ2202\Disk Google\MATLAB\IETroom\okno.m' -a 'C:\Users\UKF-HPZ2202\Disk Google\MATLAB\IETroom\ampCheck.m' -a 'C:\Users\UKF-HPZ2202\Disk Google\MATLAB\IETroom\localMax.m' -a 'C:\Users\UKF-HPZ2202\Disk Google\MATLAB\IETroom\localMin.m' -a 'C:\Users\UKF-HPZ2202\Disk Google\MATLAB\IETroom\okno.fig' 
+Compiler version: 6.1 (R2015b)
+
+Dependency analysis by REQUIREMENTS.
+
+Begin validation of MEX files: Fri Dec 15 21:07:16 2017
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\activeset.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\barrierqplp.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\iplp.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\milp.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\optimutil.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\presolve.dll'.
+No conflicting MATLAB file found.
+End validation of MEX files: Fri Dec 15 21:07:16 2017
+[Warning: Adding path "C:\Users\UKF-HPZ2202\Disk Google\MATLAB\IETroom" to
+Compiler path instance.] 
+[] 
+Parsing file "C:\Users\UKF-HPZ2202\Disk Google\MATLAB\IETroom\okno.m"
+	(Referenced from: "Compiler Command Line").
+Deleting 11 temporary MEX authorization files.
+Removing: 'C:\Users\UKF-HP~1\AppData\Local\Temp\mathworks_tmp_00fd410861_4052.auth'.
+Removing: 'C:\Users\UKF-HP~1\AppData\Local\Temp\mathworks_tmp_00fd416921_4052.auth'.
+Removing: 'C:\Users\UKF-HP~1\AppData\Local\Temp\mathworks_tmp_00fd427246_4052.auth'.
+Removing: 'C:\Users\UKF-HP~1\AppData\Local\Temp\mathworks_tmp_00fd430294_4052.auth'.
+Removing: 'C:\Users\UKF-HP~1\AppData\Local\Temp\mathworks_tmp_00fd42836_4052.auth'.
+Removing: 'C:\Users\UKF-HP~1\AppData\Local\Temp\mathworks_tmp_00fd43555_4052.auth'.
+Removing: 'C:\Users\UKF-HP~1\AppData\Local\Temp\mathworks_tmp_00fd419228_4052.auth'.
+Removing: 'C:\Users\UKF-HP~1\AppData\Local\Temp\mathworks_tmp_00fd49131_4052.auth'.
+Removing: 'C:\Users\UKF-HP~1\AppData\Local\Temp\mathworks_tmp_00fd414056_4052.auth'.
+Removing: 'C:\Users\UKF-HP~1\AppData\Local\Temp\mathworks_tmp_00fd41664_4052.auth'.
+Removing: 'C:\Users\UKF-HP~1\AppData\Local\Temp\mathworks_tmp_00fd418725_4052.auth'.
+Generating file "C:\Users\UKF-HPZ2202\Documents\MATLAB\IETroom\for_testing\readme.txt".
+Packaging...
+Adding custom icon C:\Program Files (x86)\MATLAB\R2015b\toolbox\compiler\Resources\default_icon.ico to C:\Users\UKF-HPZ2202\Documents\MATLAB\IETroom\for_testing\IETroom.exe.
+Attempting to embed the CTF archive into the application C:\Users\UKF-HPZ2202\Documents\MATLAB\IETroom\for_testing\IETroom.exe.
+Finished embedding CTF archive. Deleting the external CTF archive.
+Creating the bundle...
+Web based installer created at C:\Users\UKF-HPZ2202\Documents\MATLAB\IETroom\for_redistribution\MyAppInstaller_web.exe.
+Packaging complete.
+Elapsed packaging time was: 50 seconds.
